@@ -9,11 +9,6 @@
 -    📬 Contacta conmigo: Discord | <a href="https://instagram.com/goodfly.ar">Gonsanz</a>
 -    🧗 Intento superar mis limites
 
-
-
-## Mis artículos
-- (https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 
 ¡Gracias por pasar por aquí! Conectémonos y exploremos juntos el fascinante mundo de la tecnología. 🚀
