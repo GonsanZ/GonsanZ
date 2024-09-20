@@ -9,6 +9,6 @@
 -    📬 Contacta conmigo: Discord | <a href="https://instagram.com/goodfly.ar">Gonsanz</a>
 -    🧗 Intento superar mis limites
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,css,ts,java,discordjs,babylonjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,css,ts,java,discordjs)](https://skillicons.dev)
 
 ¡Gracias por pasar por aquí! Conectémonos y exploremos juntos el fascinante mundo de la tecnología. 🚀
