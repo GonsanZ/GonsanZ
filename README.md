@@ -5,7 +5,7 @@
 -    🔭 Estoy trabajando en un Bot de Discord.js llamado <a href="https://goodflyapp.com/">GoodFlyApp</a>
 -    👯 Buscando colaborar con otros desarolladores 😉
 -    🥅 2023 Metas: Back End Developer.
--	 💻 Javascript, HTML5/CSS, Typescript, actualmente estoy aprendiendo Java.
+-	   💻 Javascript, HTML5/CSS, Typescript. Actualmente estoy aprendiendo Java.
 -    📬 Contacta conmigo: Discord | <a href="https://instagram.com/goodfly.ar">GoodFlyApp</a>
 -    🧗 Intento superar mis limites
 
