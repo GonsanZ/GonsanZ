@@ -6,13 +6,13 @@
 -    👯 Buscando colaborar con otros desarolladores 😉
 -    🥅 2023 Metas: Back End Developer.
 -	💻 Javascript, HTML5/CSS, Typescript. Actualmente estoy aprendiendo Java.
--    📬 Contacta conmigo: Discord | <a href="https://instagram.com/goodfly.ar">GoodFlyApp</a>
+-    📬 Contacta conmigo: Discord | <a href="https://instagram.com/goodfly.ar">Gonsanz</a>
 -    🧗 Intento superar mis limites
 
 
 
 ## Mis artículos
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- (https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
