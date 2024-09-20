@@ -1,7 +1,5 @@
 # Hola, soy Gonsanz! 👋
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<Gonsanz>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 Sobre mí
 
 -    🔭 Estoy trabajando en un Bot de Discord.js llamado <a href="https://goodflyapp.com/">GoodFlyApp</a>
